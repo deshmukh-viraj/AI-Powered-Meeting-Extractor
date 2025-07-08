@@ -1,6 +1,6 @@
 <h1 align="center" id="title">AI-Powered Meeting Extractor</h1>
 
-<p align="center"><img src="https://socialify.git.ci/deshmukh-viraj/AI-Powered-Meeting-Extractor/image?custom_description=An+intelligent+tool+that+automatically+transcribes+meeting+audio%2C+extracts+key+insights+like+action+items%2C+decisions%2C+participants%2C+and+generates+a+professional+follow-up+email+&amp;description=1&amp;font=Inter&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/deshmukh-viraj/AI-Powered-Meeting-Extractor/image?custom_description=An+intelligent+tool+that+automatically+transcribes+meeting+audio%2C+extracts+key+insights+like+action+items%2C+decisions%2C+participants%2C+and+generates+a+professional+follow-up+email template+&amp;description=1&amp;font=Inter&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;theme=Light" alt="project-image"></p>
 
 <p align="center"><img src="https://img.shields.io/badge/Python-3.10-bluelogo%3Dpython%26logoColor%3Dwhite)" alt="shields"></p>
 
