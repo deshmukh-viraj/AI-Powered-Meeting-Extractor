@@ -14,7 +14,7 @@
 
 Technologies used in the project:
 
-*   Whisper – Automatic speech recognition (ASR) by OpenAI
+*   Whisper – Automatic speech recognition (ASR) by OpenAI 
 *   Rule-Based NLP – Keyword extraction summarization participant detection etc
 *   Librosa – For audio loading and analysis
 *   Pydub – Audio file conversion and manipulation
